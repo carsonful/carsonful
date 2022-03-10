@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in the IT World
 - 🌱 I’m currently learning python
-- 📫 How to reach me - [Discord](google.com), [LinkedIn](
+- 📫 How to reach me - [Discord](discord.com/user/carson#9959), [LinkedIn](https://www.linkedin.com/in/carsonfulmer/)
 
 <!---
 carsonful/carsonful is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
