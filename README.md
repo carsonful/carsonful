@@ -20,3 +20,6 @@ You can click the Preview link to take a look at your changes.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carsonful&langs_count=8)
 
+#### Views
+
+![](https://komarev.com/ghpvc/?username=carsonful&color=blue)
