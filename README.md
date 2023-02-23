@@ -1,8 +1,8 @@
 # Hey, I'm Carson! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 👀 I’m interested in the IT World
-- 🌱 I’m currently learning JavaScript, C, and Python
-- 📫 How to reach me - [Discord](discordapp.com/users/carson#9959), [LinkedIn](https://www.linkedin.com/in/carsonfulmer/), or [Email](mailto:carsonhcf@gmail.com)
+- 👀 I’m interested in the Software World
+- 🌱 I’m currently learning Data Structures and Algos!
+- 📫 How to reach me - [Discord](discordapp.com/users/carson#9000), [LinkedIn](https://www.linkedin.com/in/carsonfulmer/), or [Email](mailto:carson.fulmer@knights.ucf.edu)
 - 📧 My [Website](http://carsonfulmer.com)
 
 <!---
