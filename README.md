@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in the Software World
 - 🌱 I’m currently learning Data Structures and Algos!
-- 📫 How to reach me - [Discord](discordapp.com/users/carson#9000), [LinkedIn](https://www.linkedin.com/in/carsonfulmer/), or [Email](mailto:carson.fulmer@knights.ucf.edu)
+- 📫 How to reach me - [Discord](discordapp.com/users/vagile), [LinkedIn](https://www.linkedin.com/in/carsonfulmer/), or [Email](mailto:richard.fulmer@ufl.edu)
 - 📧 My [Website](http://carsonfulmer.com)
 
 <!---
