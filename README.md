@@ -1,7 +1,6 @@
 # Hey, I'm Carson! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 👀 I’m interested in the Software World
-- 🌱 I’m currently learning Data Structures and Algos!
 - 📫 How to reach me - [Discord](discordapp.com/users/vagile), [LinkedIn](https://www.linkedin.com/in/carsonfulmer/), or [Email](mailto:richard.fulmer@ufl.edu)
 - 📧 My [Website](http://carsonfulmer.com)
 
